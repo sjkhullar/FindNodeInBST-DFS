@@ -1,6 +1,5 @@
 
 package org.learn.Question;
-import org.learn.PrepareTree.Node;
 
 public class FindNodeInBST {
 	public static Node findNodeInBST(Node node, int value) {
